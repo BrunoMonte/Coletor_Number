@@ -1,0 +1,28 @@
+body {
+    background: rgb(72, 72, 231);
+    font : normal 15pt Arial;
+
+}
+
+header {
+    color: white;
+    text-align: center; /*deixar centralizado*/
+}
+
+section {
+    background: white;
+    border-radius: 10px; /*bordas arredondadas */
+    padding: 15px; /*mais espaço no branco*/
+    width: 500px; /*largura fixa*/
+    margin: auto; /*centralizar*/
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.753); /*sombra na borda branca*/
+}
+select#flista{
+    width: 150px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
