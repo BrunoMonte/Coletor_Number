@@ -1,5 +1,5 @@
 body {
-    background: rgb(72, 72, 231);
+    background: #4848e7;
     font : normal 15pt Arial;
 
 }
@@ -18,7 +18,7 @@ section {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.753); /*sombra na borda branca*/
 }
 select#flista{
-    width: 150px;
+    width: 150px;           /*largura*/
 }
 
 footer {
